@@ -1,0 +1,51 @@
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\DataStore\IgnoreList.txt
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\GoogleMini.exe.config
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\GoogleMini.exe
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\GoogleMini.pdb
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\CSharpTest.Net.Collections.dll
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\Ookii.Dialogs.dll
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\System.ValueTuple.dll
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\CSharpTest.Net.Collections.xml
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\Ookii.Dialogs.xml
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\System.ValueTuple.xml
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.Properties.Resources.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.HomeView.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.SplashForm.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.TextFileReaderForm.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.WebCodeView.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.SearchResultItem.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.SearchResultsView.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.ShellForm.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.csproj.GenerateResource.Cache
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.csproj.CoreCompileInputs.cache
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.exe
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.pdb
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.csprojResolveAssemblyReference.cache
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\DataStore\IgnoreList.txt
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\GoogleMini.exe.config
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\GoogleMini.exe
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\GoogleMini.pdb
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\CSharpTest.Net.Collections.dll
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\HtmlAgilityPack.dll
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\System.ValueTuple.dll
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\CSharpTest.Net.Collections.xml
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\HtmlAgilityPack.pdb
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\HtmlAgilityPack.xml
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\Ookii.Dialogs.xml
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\bin\Debug\System.ValueTuple.xml
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.csprojResolveAssemblyReference.cache
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.Properties.Resources.resources
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.HomeView.resources
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.SplashForm.resources
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.TextFileReaderForm.resources
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.WebCodeView.resources
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.SearchResultItem.resources
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.SearchResultsView.resources
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.UI.ShellForm.resources
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.csproj.GenerateResource.Cache
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.csproj.CoreCompileInputs.cache
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.exe
+D:\$tip$\I.T\GoogleMini\GoogleMinusMinus\GoogleMinusMinus\obj\Debug\GoogleMini.pdb

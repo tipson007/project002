@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{28F21D57-6065-46F1-88AA-3AF7ED6CACF0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GoogleMini</RootNamespace>
+    <AssemblyName>GoogleMini</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>GoogleMini.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CSharpTest.Net.Collections, Version=14.906.1403.1082, Culture=neutral, PublicKeyToken=06aee00cce822474, processorArchitecture=MSIL">
+      <HintPath>..\packages\CSharpTest.Net.Collections.14.906.1403.1082\lib\net40\CSharpTest.Net.Collections.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.6.5.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.6.5\lib\Net45\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Ookii.Dialogs">
+      <HintPath>..\..\..\..\..\Freelance Projects\Libraries\Ookii.Dialogs\Ookii.Dialogs.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.ValueTuple, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.4.0\lib\net461\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataStore\IncrementalIdentityStore.cs" />
+    <Compile Include="FolderManagement\FolderSerializer.cs" />
+    <Compile Include="FolderManagement\TextFileEventCallbackArgs.cs" />
+    <Compile Include="FolderManagement\FileDatabase.cs" />
+    <Compile Include="HTMLProcessing\HTMLProcessor.cs" />
+    <Compile Include="TextProcessing\IndexDatabase.cs" />
+    <Compile Include="TextProcessing\Word.cs" />
+    <Compile Include="TextProcessing\WordContext.cs" />
+    <Compile Include="TextProcessing\WordOccurrence.cs" />
+    <Compile Include="TextProcessing\WordOccurrenceSerializer.cs" />
+    <Compile Include="TextProcessing\WordReader.cs" />
+    <Compile Include="UI\CustomControls\HTML\HTMLSyntaxHighlighter.cs" />
+    <Compile Include="UI\CustomControls\HTML\HTMLTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UI\CustomControls\HTML\JavaScriptSyntaxHighlighter.cs" />
+    <Compile Include="UI\CustomControls\HTML\RTFBuilder.cs" />
+    <Compile Include="UI\CustomControls\HTML\SyntaxHighlightDescriptor.cs" />
+    <Compile Include="UI\CustomControls\HTML\SyntaxHighlighter.cs" />
+    <Compile Include="UI\CustomControls\NoMouseEventsControl.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UI\SplashForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SplashForm.Designer.cs">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\TextFileReaderForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\TextFileReaderForm.Designer.cs">
+      <DependentUpon>TextFileReaderForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\WebCodeView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\WebCodeView.Designer.cs">
+      <DependentUpon>WebCodeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\CustomControls\RichLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="TextProcessing\Statistics.cs" />
+    <Compile Include="FolderManagement\Folder.cs" />
+    <Compile Include="FolderManagement\FolderManager.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TextProcessing\TextFileProcessor.cs" />
+    <Compile Include="UI\CustomControls\NoFocusCuesButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UI\HomeView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\HomeView.Designer.cs">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SearchResultItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\SearchResultItem.Designer.cs">
+      <DependentUpon>SearchResultItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SearchResultsView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\SearchResultsView.Designer.cs">
+      <DependentUpon>SearchResultsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\ShellForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\ShellForm.Designer.cs">
+      <DependentUpon>ShellForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Util\ListSerializer.cs" />
+    <Compile Include="Util\LinqExtensions.cs" />
+    <Compile Include="Util\CompoundId.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UI\HomeView.resx">
+      <DependentUpon>HomeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SplashForm.resx">
+      <DependentUpon>SplashForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\TextFileReaderForm.resx">
+      <DependentUpon>TextFileReaderForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\WebCodeView.resx">
+      <DependentUpon>WebCodeView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SearchResultItem.resx">
+      <DependentUpon>SearchResultItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SearchResultsView.resx">
+      <DependentUpon>SearchResultsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\ShellForm.resx">
+      <DependentUpon>ShellForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_Enter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_Leave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Home_Press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\upbar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_Enter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_Leave.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_Press.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_Middle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Search_Right.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Chevron_Left.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Previous.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DataStore\IgnoreList.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Test Files\Edwin Abbott\Flatland.txt" />
+    <Content Include="Test Files\F Scott Fitzgerald\The Great Gatsby.txt" />
+    <Content Include="Test Files\J D Salinger\The Catcher In The Rye.txt" />
+    <Content Include="Test Files\Terry Pratchet\Good Omen.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>XCOPY "$(ProjectDir)DataStore\IgnoreList.txt" "$(TargetDir)DataStore\" /S /Y;
+XCOPY "$(ProjectDir)Test Files" "$(TargetDir)Test Files\" /S /Y</PostBuildEvent>
+  </PropertyGroup>
+</Project>

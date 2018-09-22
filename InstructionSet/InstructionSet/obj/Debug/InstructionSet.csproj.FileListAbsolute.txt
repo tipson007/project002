@@ -1,0 +1,22 @@
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\bin\Debug\InstructionSet.exe.config
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\bin\Debug\InstructionSet.exe
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\bin\Debug\InstructionSet.pdb
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\obj\Debug\InstructionSet.UI.MainForm.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\obj\Debug\InstructionSet.Properties.Resources.resources
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\obj\Debug\InstructionSet.csproj.GenerateResource.Cache
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\obj\Debug\InstructionSet.csproj.CoreCompileInputs.cache
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\obj\Debug\InstructionSet.exe
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\obj\Debug\InstructionSet.pdb
+C:\Users\Adetunji\Documents\Visual Studio 2017\Projects\InstructionSet\InstructionSet\obj\Debug\InstructionSet.UI.EditTextBlockForm.resources
+D:\assignments\software engineering\InstructionSet\InstructionSet\bin\Debug\InstructionSet.exe.config
+D:\assignments\software engineering\InstructionSet\InstructionSet\bin\Debug\InstructionSet.exe
+D:\assignments\software engineering\InstructionSet\InstructionSet\bin\Debug\InstructionSet.pdb
+D:\assignments\software engineering\InstructionSet\InstructionSet\obj\Debug\InstructionSet.csprojResolveAssemblyReference.cache
+D:\assignments\software engineering\InstructionSet\InstructionSet\obj\Debug\InstructionSet.UI.EditTextBlockForm.resources
+D:\assignments\software engineering\InstructionSet\InstructionSet\obj\Debug\InstructionSet.UI.MainForm.resources
+D:\assignments\software engineering\InstructionSet\InstructionSet\obj\Debug\InstructionSet.Properties.Resources.resources
+D:\assignments\software engineering\InstructionSet\InstructionSet\obj\Debug\InstructionSet.csproj.GenerateResource.Cache
+D:\assignments\software engineering\InstructionSet\InstructionSet\obj\Debug\InstructionSet.csproj.CoreCompileInputs.cache
+D:\assignments\software engineering\InstructionSet\InstructionSet\obj\Debug\InstructionSet.exe
+D:\assignments\software engineering\InstructionSet\InstructionSet\obj\Debug\InstructionSet.pdb
